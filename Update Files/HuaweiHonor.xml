@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <root>
   <creator>TheMegaPhoenix</creator>
   <date>30/08/2017</date>
-  <version>2</version>
-  <updateURL>a</updateURL>
+  <version>1.0</version>
+  <updateURL>https://github.com/themegaphoenix/APT-honor7Files/blob/master/Update%20Files/updateXML.txt?raw=true</updateURL>
   <phone>
     <manufacturer>Huawei</manufacturer>
     <model>Honor7</model>
@@ -13,9 +12,13 @@
     <RAM>3GB</RAM>
     <storage>16GB</storage>
     <picture>HuaweiHonor7.png</picture>
-    <twrp>
-      <version id="3.1.1-0">https://www.dropbox.com/s/lk67rkawrbwrqpm/twrp-3.1.1-0-plank.img?dl=1</version>
-    </twrp>
+    <recovery>
+      <twrp>
+        <version id="3.1.1-0">https://www.dropbox.com/s/lk67rkawrbwrqpm/twrp-3.1.1-0-plank.img?dl=1</version>
+      </twrp>
+      <stock>
+      </stock>
+    </recovery>
     <unbrickFastboot>
       <version id="b390-Full">
         <boot>https://www.dropbox.com/s/np604t58nyp7cj8/BOOT.img?dl=1</boot>
@@ -26,13 +29,17 @@
     </unbrickFastboot>
     <unbrickStock>
       <version id="b390-Full">http://update.hicloud.com:8180/TDS/data/files/p3/s15/G939/g104/v80927/f1/full/update.zip</version>
-      <version id="b2">http://tinyurl.com/yd6lubzc</version>
     </unbrickStock>
   </phone>
   <Gapps>
     <version id="v16">https://www.dropbox.com/s/r561jeeorgfie35/opengapps-app-v16.apk?dl=1</version>
   </Gapps>
-  <magiskInstaller>
-    <version id="13.3">https://www.dropbox.com/s/lhc06kmlbhmcrce/Magisk-v13.3.zip?dl=1</version>
-  </magiskInstaller>
+  <magisk>
+    <magiskInstaller>
+      <version id="13.3">https://www.dropbox.com/s/lhc06kmlbhmcrce/Magisk-v13.3.zip?dl=1</version>
+    </magiskInstaller>
+    <magiskManager>
+      <version id="5.5.2.0">https://www.dropbox.com/s/dsz98ixdk8s9vmm/magiskManager5.2.0.apk?dl=1</version>
+    </magiskManager>
+  </magisk>
 </root>
