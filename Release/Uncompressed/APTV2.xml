@@ -1,0 +1,261 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+APTV2
+</name>
+</assembly>
+<members>
+<member name="T:APTV2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Resources.Android">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Resources.CPU_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Resources.File">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Resources.Lock___06">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Resources.Memory_Card_WF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Resources.opengapps">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Resources.Ram_WF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Resources.Settings___09">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Resources.Unlock_WF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:APTV2.My.Resources.Strings">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnFlashMagisk_Click_Rebooting_device_to_recovery">
+<summary>
+  Looks up a localized string similar to Rebooting device to recovery.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnFlashMagisk_Click_Showing_all_devices">
+<summary>
+  Looks up a localized string similar to Showing all devices.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnFlashMagiskManager_Click_Installing_app_on_the_device_make_sure_device_is_plugged_in__otherwise_it_will_not_output_anything_">
+<summary>
+  Looks up a localized string similar to Installing app on the device(make sure device is plugged in, otherwise it will not output anything).
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnFlashMagiskManager_Click_Open_the_Magisk_Manager_Application">
+<summary>
+  Looks up a localized string similar to Open the Magisk Manager Application.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnFlashRecovery_ClickAsync_Flashing_recovery___make_sure_device_is_plugged__otherwise_it_will_not_output_anything_">
+<summary>
+  Looks up a localized string similar to Flashing recovery: (make sure device is plugged, otherwise it will not output anything).
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnFlashRecovery_ClickAsync_Rebooting_device">
+<summary>
+  Looks up a localized string similar to Rebooting device.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnFlashRecovery_ClickAsync_Root_device_">
+<summary>
+  Looks up a localized string similar to Root device?.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnFlashRecovery_ClickAsync_Would_you_like_to_root_your_device_">
+<summary>
+  Looks up a localized string similar to Would you like to root your device?.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnFlashUnbr_Click_Please_boot_the_phone_into_fastboot_mode">
+<summary>
+  Looks up a localized string similar to Is the phone in fastboot mode? If not please boot into it first and then press yes..
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnFlashUnbr_Click_Reboot_into_fastboot_mode">
+<summary>
+  Looks up a localized string similar to Reboot into fastboot mode.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnFlashUnbr_Click_Rebooting_to_fastboot">
+<summary>
+  Looks up a localized string similar to Rebooting to fastboot.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnFlashUnbrRecovery_Click_Power_on_your_Honor_7_Holding_all_three_buttons__VOL___VOL__and_Power__and_it_will_begin_flashing">
+<summary>
+  Looks up a localized string similar to Power on your Honor 7 Holding all three buttons (VOL+, VOL- and Power) and it will begin flashing.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnGappsInstall_Click_Installing_app_on_the_device_make_sure_device_is_plugged_in__otherwise_it_will_not_output_anything_">
+<summary>
+  Looks up a localized string similar to Installing app on the device(make sure device is plugged in, otherwise it will not output anything).
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnLockBootloader_Click_">
+<summary>
+  Looks up a localized string similar to You have not entered a unlock key.
+Some devices might not require it.
+Continue?.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnLockBootloader_Click_Relocking_bootloader___make_sure_device_is_plugged__otherwise_it_will_not_output_anything_">
+<summary>
+  Looks up a localized string similar to Relocking bootloader: (make sure device is plugged, otherwise it will not output anything).
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnUnlockBootloader_Click_">
+<summary>
+  Looks up a localized string similar to You have not entered a unlock key.
+Some devices might not require it.
+Continue?.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnUnlockBootloader_Click_Proceed">
+<summary>
+  Looks up a localized string similar to Proceed.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnUnlockBootloader_Click_Rebooting_device">
+<summary>
+  Looks up a localized string similar to Rebooting device.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnUnlockBootloader_Click_Root_the_device_">
+<summary>
+  Looks up a localized string similar to Root the device?.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnUnlockBootloader_Click_Unlocking_bootloader">
+<summary>
+  Looks up a localized string similar to Unlocking bootloader: (make sure device is plugged, otherwise it will not output anything).
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_btnUnlockBootloader_Click_Would_you_like_to_flash_a_custom_recovery_like_TWRP_">
+<summary>
+  Looks up a localized string similar to Would you like to flash a custom recovery like TWRP?.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_CheckXMLUpdates_New_version_of_the_XML__data__file_found__Download_now_">
+<summary>
+  Looks up a localized string similar to New version of the XML (data) file found. Download now?.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_CheckXMLUpdates_Update">
+<summary>
+  Looks up a localized string similar to Update.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_CheckXMLUpdates_Update_Complete">
+<summary>
+  Looks up a localized string similar to Update Complete.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_CheckXMLUpdates_Update_Found">
+<summary>
+  Looks up a localized string similar to Update Found.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_CheckXMLUpdates_You_have_the_latest_version">
+<summary>
+  Looks up a localized string similar to You have the latest version.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_Completed_Download_completed_">
+<summary>
+  Looks up a localized string similar to Download completed!.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_Completed_Download_has_been_canceled_">
+<summary>
+  Looks up a localized string similar to Download has been canceled..
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_DownloadFileAsync_File_already_exists">
+<summary>
+  Looks up a localized string similar to  already exists..
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_DownloadFileAsync_File_does_not_exist__Starting_Download_">
+<summary>
+  Looks up a localized string similar to  does not exist. Starting download..
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_getInfoXMLInner_Not_Found">
+<summary>
+  Looks up a localized string similar to Link not found.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_readXML_File_not_found_or_file_corrupt">
+<summary>
+  Looks up a localized string similar to File not found or file corrupt.
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Home_ReloadInfo_File_does_not_contains_invalid_information">
+<summary>
+  Looks up a localized string similar to File does not contains valid information..
+</summary>
+</member>
+<member name="P:APTV2.My.Resources.Strings.Rebooting_to_bootloader">
+<summary>
+  Looks up a localized string similar to Rebooting to bootloader.
+</summary>
+</member>
+</members>
+</doc>
